@@ -2,9 +2,10 @@ from dotenv import load_dotenv
 from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_openai import ChatOpenAI
 
-class AiPromptEnchancer():
+load_dotenv()
+
+class AIEnchancer():
     def __init__(self, model, sys_prompt):
-        load_dotenv()
         self.llm = ChatOpenAI(model=model)
         self.sys_prompt = sys_prompt
 

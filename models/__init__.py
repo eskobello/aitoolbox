@@ -1,3 +1,3 @@
-from .ai_prompt_enchancer import AiPromptEnchancer
+from .ai_prompt_enchancer import AIEnchancer
 
-__all__ = ["AiPromptEnchancer"]
+__all__ = ["AIEnchancer"]

@@ -13,3 +13,10 @@ wheels/
 .env
 .env.local
 *.env
+
+tests
+
+CLAUDE.md
+
+.CLAUDE
+.claude
