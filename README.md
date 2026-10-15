@@ -1,4 +1,4 @@
-# 🚀 Prompt Optimizer
+# 🚀 AI Toolbox
 
 Aplikacja Streamlit do analizy i optymalizacji promptów dla AI. Identyfikuje dwuznaczności, niesprecyzowane kwestie oraz proponuje ulepszone wersje tekstów.
 

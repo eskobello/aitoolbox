@@ -1,3 +1,3 @@
-from .prompts import TEXT_ENHANCER
+from .prompts import TEXT_ENHANCER, AGENT_CREATOR
 
-__all__ = ["TEXT_ENHANCER"]
+__all__ = ["TEXT_ENHANCER", "AGENT_CREATOR"]
